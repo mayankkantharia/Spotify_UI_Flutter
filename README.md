@@ -1,4 +1,4 @@
-# spotify_ui
+# Spotify UI
 
 A Spotify clone UI in flutter.
 
